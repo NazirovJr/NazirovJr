@@ -6,18 +6,20 @@
 <a href="https://vk.com/nazirovjr" target="_blank"><img src="https://img.icons8.com/color/40/000000/vk-circled.png"/></a>
 <a href="https://www.instagram.com/nazirov_jr" target="_blank"><img src="https://img.icons8.com/color/40/000000/instagram-new--v1.png"/></a>
 
- <div>
- 	<br /><a><img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazirovJr&theme=algolia&count_private=true&hide=html&layout=compact" /></a>
-<a><img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=NazirovJr&theme=algolia&show_icons=true&hide_border=true&count_private=true&layout=compact" /></a><br />
- </div>
  
- <h2>About me</h2> 
+ 
+ 
+<br /><h2><br />About me</h2> 
 In short about me:
 <br/>- I'm studing at [Bauman Moscow State University] (https://bmstu.ru)
 <br/>- I graduated many courses of Programming sphere
-<br/>- I'm junior Java Back-End developer <br />
-     
-<div>
+<br/>- I'm junior Java Back-End developer 
+      
+
+
+
+
+<div>   
  <h2>Stack</h2>
  <img src = "https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width = "40px" height = "40px"> 
 <img src = "https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width = "80px" height = "40px">
@@ -40,7 +42,13 @@ In short about me:
 <a target="_blank" rel="noopener noreferrer" href="https://nodejs.org/en/"><img src = "https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width = "40px" height = "40px"></a>
 
 <img src="https://img.icons8.com/fluency/45/000000/mysql-logo.png"/> 
- </div>
+</div>
+ 
+ <div>
+  <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazirovJr&theme=algolia&count_private=true&hide=html&layout=compact" />  
+  <br />
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=NazirovJr&theme=algolia&show_icons=true&hide_border=true&count_private=true&layout=compact" />  	
+</div>
 <!--
 **NazirovJr/NazirovJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
