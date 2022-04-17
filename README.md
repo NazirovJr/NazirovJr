@@ -8,8 +8,7 @@
 
  
  
- 
-<br /><h2><br />About me</h2> 
+<h2>About me</h2> 
 In short about me:
 <br/>- I'm studing at [Bauman Moscow State University] (https://bmstu.ru)
 <br/>- I graduated many courses of Programming sphere
