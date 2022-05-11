@@ -12,7 +12,7 @@
 In short about me:
 <br/>- I'm studing at [Bauman Moscow State University] (https://bmstu.ru)
 <br/>- I graduated many courses of Programming sphere
-<br/>- I'm junior Java Back-End developer 
+<br/>- I'm Full-Stack developer 
       
 
 
