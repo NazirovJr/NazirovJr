@@ -10,8 +10,8 @@
  
 <h2>About me</h2> 
 In short about me:
-<br/>- I'm studing at [Bauman Moscow State University] (https://bmstu.ru)
-<br/>- I'm Java developer 
+<br/>- Studing at [Bauman Moscow State University] (https://bmstu.ru)
+<br/>- Java developer 
       
 
 
